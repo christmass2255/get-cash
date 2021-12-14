@@ -1,0 +1,21 @@
+body{
+background-image:url("apple-iphone-12-pro-max.jpg");
+position:cover;
+}
+p1,p2{
+	text-transform:uppercase;
+}
+p2{
+	text-size:100px;
+	color:rgba(44.60.40.30);
+}
+p3{
+	text-transform:uppercase;
+	color:blue;
+}
+h1,h7{
+	text-transform:uppercase;
+}
+h7{
+	color:#fff;
+}

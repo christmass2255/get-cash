@@ -1,0 +1,23 @@
+body{
+margin:0 auto;
+background-image:;
+background-repeat:no-repeat;
+background-size:100% 720px;
+}
+h1{
+color:rgba(44.60.40.30);
+}
+h2{
+	color:green;
+}
+label{
+	color:blue;
+}
+
+div{
+	color:blue;
+	text-transform:uppercase;
+}
+p1{
+	text-transform:lowercase;
+}

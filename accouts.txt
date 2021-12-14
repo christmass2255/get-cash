@@ -1,0 +1,3 @@
+fullz
+email  =first = last= coutry=code=address = cc-names  = cc-no =exp-d =cvv
+
